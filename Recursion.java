@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Recursion {
 
 	/*
-	 * Computer Science 2 Fall Lab 2 Recursive vs Iterative
+	 * Computer Science 2 Fall Lab 2 Recursive vs Iterative func
 	 *
 	 * This lab uses the Fibonacci series to compare recursion and iteration in
 	 * order to find which is faster. The program first asks the user to input a
